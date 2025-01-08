@@ -1,0 +1,10 @@
+repositories:
+  external/ntrip_client:
+    type: git
+    url: https://github.com/Zeki411/ntrip_client_ros.git
+    version: ros2
+  external/ublox:
+    type: git
+    url: https://github.com/KumarRobotics/ublox.git
+    version: ros2
+    
