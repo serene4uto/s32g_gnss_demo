@@ -14,7 +14,7 @@ IMAGE_NAME="s32g-gnss-demo"
 
 # Get source code
 mkdir -p $PROJECT_DIR/src
-vcs import $PROJECT_DIR/src < $PROJECT_DIR/s32g_gnss_demo.repos --recursive
+vcs import $PROJECT_DIR/src < $PROJECT_DIR/s32g_gnss.repos --recursive
 
 # Build the Docker image
 echo "Building Docker image: $IMAGE_NAME"
