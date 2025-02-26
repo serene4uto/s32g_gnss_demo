@@ -13,4 +13,4 @@ RUN mkdir -p $HOME/s32g-gnss
 WORKDIR $HOME/s32g-gnss
 
 # Copy the 'src' folder from your local machine into the container
-COPY src/ $HOME/s32g-gnss
+# COPY src/ $HOME/s32g-gnss
