@@ -11,3 +11,7 @@ repositories:
     type: git
     url: https://github.com/serene4uto/s32g_gnss_demo_pkg.git
     version: main
+  demo/gnss_eval_ros:
+    type: git
+    url: https://github.com/serene4uto/gnss_eval_ros.git
+    version: ros2
